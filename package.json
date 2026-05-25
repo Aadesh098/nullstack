@@ -11,8 +11,6 @@
     "link:cli": "bun run build:cli && cd packages/cli && bun link"
   },
   "dependencies": {
-    "@hono/zod-validator": "0.8.0",
-    "dotenv": "^17.4.2",
-    "hono": "4.12.23"
+    "dotenv": "^17.4.2"
   }
 }
