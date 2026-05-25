@@ -1,0 +1,18 @@
+{
+  "name": "nullstack",
+  "version": "1.0.0",
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "dev:cli": "bun run --watch packages/cli/src/index.tsx",
+    "dev:server": "bun run --hot packages/server/src/index.ts",
+    "build:cli": "bun run --filter @nullstack/cli build",
+    "link:cli": "bun run build:cli && cd packages/cli && bun link"
+  },
+  "dependencies": {
+    "@hono/zod-validator": "0.8.0",
+    "dotenv": "^17.4.2",
+    "hono": "4.12.23"
+  }
+}
