@@ -1,6 +1,6 @@
 {
   "name": "avsnullstack",
-  "version": "1.0.4",
+  "version": "1.0.7",
   "type": "module",
   "main": "./dist/index.js",
   "bin": {
@@ -16,7 +16,8 @@
   },
   "files": [
     "dist",
-    "bin"
+    "bin",
+    "README.md"
   ],
   "scripts": {
     "dev": "bun run --watch src/index.tsx",

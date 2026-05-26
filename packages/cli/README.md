@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.npmjs.com/package/avsnullstack">npm</a> · <a href="https://github.com/Aadesh098/nullstack">GitHub</a>
+   <a href="https://github.com/Aadesh098/nullstack">GitHub</a>
 </p>
 
 ---
@@ -166,7 +166,7 @@ packages/
 
 ---
 
-## Development
+## Local Development
 
 ```bash
 # Install dependencies
