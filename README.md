@@ -55,6 +55,8 @@ NullStack is an AI-first development runtime that transforms the terminal into a
 NullStack represents a shift toward autonomous terminal engineering - where developers define intent, intelligent agents coordinate execution, and the terminal becomes a runtime for production-grade system generation.
 
 ---
+<img width="1883" height="861" alt="image" src="https://github.com/user-attachments/assets/6914d1a9-5ff8-4be5-8139-0a7b68d98bce" />
+<br />
 <img width="1611" height="270" alt="image" src="https://github.com/user-attachments/assets/c014e31a-0c94-4be8-9822-f1e91cbe7007" />
 <br />
 <img width="1582" height="772" alt="image" src="https://github.com/user-attachments/assets/09380716-7c88-4121-98f1-5e372823e257" />}
