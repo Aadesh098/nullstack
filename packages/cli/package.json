@@ -1,10 +1,18 @@
 {
-  "name": "@nullstack/cli",
-  "version": "1.0.0",
+  "name": "avsnullstack",
+  "version": "1.0.4",
   "type": "module",
   "main": "./dist/index.js",
   "bin": {
     "nullstack": "bin/nullstack"
+  },
+  "engines": {
+    "bun": ">=1.0.0"
+  },
+  "overrides": {
+    "@opentui/core": "^0.2.15",
+    "@opentui/react": "^0.2.15",
+    "typescript": "^6.0.3"
   },
   "files": [
     "dist",
@@ -16,9 +24,6 @@
   },
   "publishConfig": {
     "access": "public"
-  },
-  "peerDependencies": {
-    "typescript": "^6.0.3"
   },
   "dependencies": {
     "@ai-sdk/react": "^3.0.193",

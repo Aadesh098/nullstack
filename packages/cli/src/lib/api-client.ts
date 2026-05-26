@@ -3,7 +3,8 @@ import type { AppType } from "@nullstack/server";
 import { clearAuth, getAuth } from "./auth";
 
 export const apiClient = hc<AppType>(
-  process.env.API_URL ?? "http://localhost:3000",
+  process.env.API_URL ??
+    "https://nullstackserver-production-d503.up.railway.app",
   {
     fetch: async (
       input: Parameters<typeof fetch>[0],
