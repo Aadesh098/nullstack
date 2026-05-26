@@ -56,33 +56,33 @@ NullStack represents a shift toward autonomous terminal engineering - where deve
 
 ---
 <img width="1883" height="861" alt="image" src="https://github.com/user-attachments/assets/6914d1a9-5ff8-4be5-8139-0a7b68d98bce" />
-<br />
+<br> 
 <img width="1611" height="270" alt="image" src="https://github.com/user-attachments/assets/c014e31a-0c94-4be8-9822-f1e91cbe7007" />
-<br />
-<img width="1582" height="772" alt="image" src="https://github.com/user-attachments/assets/09380716-7c88-4121-98f1-5e372823e257" />}
-<br />
+<br> 
+<img width="1582" height="772" alt="image" src="https://github.com/user-attachments/assets/09380716-7c88-4121-98f1-5e372823e257" />
+<br> 
 <img width="1590" height="769" alt="image" src="https://github.com/user-attachments/assets/2e94a080-5e87-4319-a857-fd9d21f448df" />
-<br />
+<br> 
 <img width="1889" height="857" alt="image" src="https://github.com/user-attachments/assets/69b9c452-2fdb-4c48-9a86-b4915a8942d9" />
-<br />
+<br> 
 <img width="1878" height="858" alt="image" src="https://github.com/user-attachments/assets/8b543218-f4c1-42bf-90b5-dd844a78fe63" />
-<br />
+<br> 
 <img width="1884" height="865" alt="image" src="https://github.com/user-attachments/assets/cff5c3b4-5fee-4a83-bec3-1318a7d075d5" />
-<br />
+<br> 
 <img width="1881" height="867" alt="image" src="https://github.com/user-attachments/assets/0b1dc20d-b6df-437f-bb04-b8a4d1f2a8a0" />
-<br/>
+<br> 
 <img width="1876" height="858" alt="image" src="https://github.com/user-attachments/assets/95776471-c695-44b1-b7e6-a1d32693f099" />
-<br />
+<br> 
 <img width="1590" height="923" alt="image" src="https://github.com/user-attachments/assets/ed9523c3-5aa7-4147-9a9a-13538e68534e" />
-<br />
+<br> 
 <img width="1596" height="925" alt="image" src="https://github.com/user-attachments/assets/4a64a7a2-a1cf-4bd6-9d24-0eaf93fb94d5" />
-<br />
+<br> 
 <img width="1559" height="624" alt="image" src="https://github.com/user-attachments/assets/7a34aef0-c83f-43d5-8d91-1c74b58de666" />
-<br />
+<br> 
 <img width="1858" height="974" alt="image" src="https://github.com/user-attachments/assets/6cd56695-bc35-416c-85e0-b1a9f367ac2a" />
-<br />
+<br> 
 <img width="1897" height="902" alt="image" src="https://github.com/user-attachments/assets/26eeb1e1-9d11-4165-9adb-a57dcf2c118e" />
-<br />
+<br> 
 <img width="1904" height="904" alt="image" src="https://github.com/user-attachments/assets/e35984d6-43a9-4c9a-b4fa-e308b23def30" />
 
 
