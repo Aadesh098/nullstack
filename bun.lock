@@ -10,7 +10,7 @@
     },
     "packages/cli": {
       "name": "avsnullstack",
-      "version": "1.0.0",
+      "version": "1.0.4",
       "bin": {
         "nullstack": "bin/nullstack",
       },
@@ -34,9 +34,6 @@
         "@types/bun": "^1.3.14",
         "@types/node": "^25.9.1",
         "@types/react": "^19.2.15",
-      },
-      "peerDependencies": {
-        "typescript": "^6.0.3",
       },
     },
     "packages/database": {
