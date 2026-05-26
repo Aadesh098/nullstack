@@ -20,7 +20,7 @@
 
 ## Overview
 
-NullStack is a terminal-first AI coding agent inspired by [OpenCode](https://github.com/nicholasgriffintn/opencode). It brings streaming AI chat, agentic tool execution, session management, and a full keyboard-driven UI into your terminal — powered by [Bun](https://bun.sh), [OpenTUI](https://github.com/anthropics/opentui), and React 19.
+NullStack is a terminal-first AI coding agent. It brings streaming AI chat, agentic tool execution, session management, and a full keyboard-driven UI into your terminal — powered by [Bun](https://bun.com/), [OpenTUI](https://opentui.com/), and React 19.
 
 Drop into any project directory, run `nullstack`, and start building with AI.
 
@@ -28,7 +28,7 @@ Drop into any project directory, run `nullstack`, and start building with AI.
 
 ## Install
 
-Requires [Bun](https://bun.sh) ≥ 1.0
+Requires [Bun](https://bun.com/) ≥ 1.0
 
 ```bash
 # npm
